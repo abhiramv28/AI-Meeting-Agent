@@ -13,12 +13,10 @@ An AI-powered meeting intelligence agent that can:
 
 This AI Meeting Agent will have the following properties :
 
-Transcription & Enrichment: Convert speech to accurate text, semantic segmentation (topics, action items, decisions).
+-Transcription & Enrichment: Convert speech to accurate text, semantic segmentation (topics, action items, decisions).
 
-Conversational Access: Provide natural language capabilities via Google Gemini, allowing queries like “Summarize all decisions from last week’s meeting” or “What were the blockers mentioned?”.
+-Conversational Access: Provide natural language capabilities via Google Gemini, allowing queries like “Summarize all decisions from last week’s meeting” or “What were the blockers mentioned?”.
 
-Memory & Retrieval: Store transcripts as embeddings in FAISS/ChromaDB to enable contextual recall across multiple meetings.
+-Memory & Retrieval: Store transcripts as embeddings in FAISS/ChromaDB to enable contextual recall across multiple meetings.
 
-Integration-first Design: Create APIs (say Flask) and modular components for compatibility with other AI agents.
-
-Scalability: Handle multiple simultaneous meetings and scale storage/processing without performance degradation.
+-Integration-first Design: Create APIs (say Flask) and modular components for compatibility with other AI agents.
