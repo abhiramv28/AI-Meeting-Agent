@@ -1,0 +1,9 @@
+streamlit
+openai-whisper
+faiss-cpu
+sentence-transformers
+google-generativeai
+Flask
+python-dotenv
+soundfile
+python-docx
